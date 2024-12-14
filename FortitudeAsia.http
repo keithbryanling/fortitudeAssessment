@@ -1,0 +1,6 @@
+@FortitudeAsia_HostAddress = http://localhost:5104
+
+GET {{FortitudeAsia_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

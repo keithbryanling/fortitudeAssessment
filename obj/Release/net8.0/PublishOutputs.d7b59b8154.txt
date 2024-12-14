@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\FortitudeAsia\FortitudeAsia\obj\Release\net8.0\PubTmp\Out\FortitudeAsia.exe
+C:\Users\User\Desktop\FortitudeAsia\FortitudeAsia\obj\Release\net8.0\PubTmp\Out\log4net.config
+C:\Users\User\Desktop\FortitudeAsia\FortitudeAsia\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\User\Desktop\FortitudeAsia\FortitudeAsia\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\User\Desktop\FortitudeAsia\FortitudeAsia\obj\Release\net8.0\PubTmp\Out\FortitudeAsia.dll
+C:\Users\User\Desktop\FortitudeAsia\FortitudeAsia\obj\Release\net8.0\PubTmp\Out\FortitudeAsia.deps.json
+C:\Users\User\Desktop\FortitudeAsia\FortitudeAsia\obj\Release\net8.0\PubTmp\Out\FortitudeAsia.runtimeconfig.json
+C:\Users\User\Desktop\FortitudeAsia\FortitudeAsia\obj\Release\net8.0\PubTmp\Out\FortitudeAsia.pdb
+C:\Users\User\Desktop\FortitudeAsia\FortitudeAsia\obj\Release\net8.0\PubTmp\Out\log4net.dll
+C:\Users\User\Desktop\FortitudeAsia\FortitudeAsia\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\User\Desktop\FortitudeAsia\FortitudeAsia\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Desktop\FortitudeAsia\FortitudeAsia\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Desktop\FortitudeAsia\FortitudeAsia\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Desktop\FortitudeAsia\FortitudeAsia\obj\Release\net8.0\PubTmp\Out\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Desktop\FortitudeAsia\FortitudeAsia\obj\Release\net8.0\PubTmp\Out\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\FortitudeAsia\FortitudeAsia\obj\Release\net8.0\PubTmp\Out\System.Security.Permissions.dll
+C:\Users\User\Desktop\FortitudeAsia\FortitudeAsia\obj\Release\net8.0\PubTmp\Out\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
